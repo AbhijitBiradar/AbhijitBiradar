@@ -8,6 +8,24 @@ I am an Automation Tester, who is passionate about exploring automation technolo
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/abhijitab) 
 - 🌐 Visit my [porfolio website](https://abhijitab.github.io/) for complete background and contact.
 
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/abhijit_biradar) 
+[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://abhijitab.github.io/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhijit-biradar-4a807b170/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/biradar.abhijit/)
+[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge&color=blue)](https://github.com/AbhijitBiradar/AbhijitBiradar)
+![Repos Badge](https://badges.pufler.dev/repos/pr2tik1?style=for-the-badge&color=red)
+
+</p>
+
+<details open>
+<summary> 😇 
+  <b>My Github Stats</b>: </summary>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbhijitBiradar&show_icons=true&theme=Gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitBiradar)](https://github.com/AbhijitBiradar/github-readme-stats)
+
+<details open>
+<summary>🤝 <b>To connect with me</b></summary>
+
 
