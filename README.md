@@ -32,8 +32,8 @@ I am an Automation Tester, who is passionate about exploring automation technolo
 
 <p align = "left">
   
-<img src = "https://github-readme-stats.vercel.app/api?username=AbhijitBiradar&show_icons=true&line_height=20">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitBiradar&hide=css,java,html">
+<img src = "https://github-readme-stats.vercel.app/api?username=AbhijitBiradar&show_icons=true&line_height=30">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitBiradar">
 
 </details>
 
