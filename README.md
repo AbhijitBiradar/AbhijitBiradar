@@ -17,7 +17,7 @@ I am an Automation Tester, who is passionate about exploring automation technolo
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://abhijitab.github.io/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhijit-biradar-4a807b170/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/biradar.abhijit/)
-[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge&color=blue)](https://github.com/AbhijitBiradar/AbhijitBiradar)
+[![Visits Badge](https://badges.pufler.dev/visits/AbhijitBiradar/AbhijitBiradar?style=for-the-badge&color=blue)](https://github.com/AbhijitBiradar/AbhijitBiradar)
 ![Repos Badge](https://badges.pufler.dev/repos/pr2tik1?style=for-the-badge&color=red)
 
 </p>
