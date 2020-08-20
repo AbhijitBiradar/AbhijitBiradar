@@ -28,10 +28,12 @@ I am an Automation Tester, who is passionate about exploring automation technolo
   <b>My Github Stats</b>: 
 </summary>
 
+<br>
+
 <p align = "center">
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbhijitBiradar&show_icons=true&theme=Gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitBiradar)](https://github.com/AbhijitBiradar/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=AbhijitBiradar&show_icons=true&theme=radical&line_height=27">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitBiradar&hide=css,java,html&theme=tokyonight">
 
 </details>
 
