@@ -21,6 +21,7 @@ I am an Automation Tester, who is passionate about exploring automation technolo
 ![Repos Badge](https://badges.pufler.dev/repos/pr2tik1?style=for-the-badge&color=red)
 
 </p>
+</details>
 
 <details open>
 <summary> 😇 
@@ -32,6 +33,6 @@ I am an Automation Tester, who is passionate about exploring automation technolo
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbhijitBiradar&show_icons=true&theme=Gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitBiradar)](https://github.com/AbhijitBiradar/github-readme-stats)
 
-
+</details>
 
 
