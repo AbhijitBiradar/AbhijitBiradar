@@ -8,6 +8,9 @@ I am an Automation Tester, who is passionate about exploring automation technolo
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/abhijitab) 
 - 🌐 Visit my [porfolio website](https://abhijitab.github.io/) for complete background and contact.
 
+<details open>
+<summary>🤝 <b>To connect with me</b></summary>
+  
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/abhijit_biradar) 
@@ -21,11 +24,14 @@ I am an Automation Tester, who is passionate about exploring automation technolo
 
 <details open>
 <summary> 😇 
-  <b>My Github Stats</b>: </summary>
+  <b>My Github Stats</b>: 
+</summary>
+
+<p align = "center">
+  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbhijitBiradar&show_icons=true&theme=Gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitBiradar)](https://github.com/AbhijitBiradar/github-readme-stats)
 
-<details open>
-<summary>🤝 <b>To connect with me</b></summary>
+
 
 
