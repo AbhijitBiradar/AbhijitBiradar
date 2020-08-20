@@ -9,3 +9,5 @@ I am an Automation Tester who is passionate about exploring automation technolog
 - 🌐 Visit my [porfolio website](https://abhijitab.github.io/) for complete background and contact.
 
 Tech Stack
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitBiradar)](https://github.com/AbhijitBiradar/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbhijitBiradar&show_icons=true&theme=Gradient)
